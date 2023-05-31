@@ -4,8 +4,9 @@ Aquí haremos las pruebas unitarias de la clase Dado.
 
 ## Tareas
 
-1. Añadir las dependencias de JUnit al pom.xml
-2. Próximamente...
+1. Añadir las dependencias de JUnit al ``pom.xml``
+2. Crear el paquete `com.inserta` en la carpeta `/test/java`
+3. Crear la clase ``DadoTest`` en el paquete anterior.
 
 
 ## Pruebas Unitarias
