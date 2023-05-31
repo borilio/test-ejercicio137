@@ -11,5 +11,5 @@ Aquí haremos las pruebas unitarias de la clase Dado.
 
 ## Pruebas Unitarias
 
-- Vamos a testear el constructor. Para ello, creamos un dado de 6 caras. Dar por válida la prueba si se crea correctamente un Dado de 6 caras (usando el método ``.getCaras()``).
+- Vamos a testear el constructor que recibe por parámetros el número de caras. Para ello, creamos un dado de 6 caras. Dar por válida la prueba si se crea correctamente un Dado de 6 caras (usando el método ``.getCaras()``).
 - Siguiente...
