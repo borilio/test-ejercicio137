@@ -41,6 +41,10 @@ public class Dado {
 		return caras;
 	}
 
+	public int getAcumulado() {
+		return acumulado;
+	}
+
 	public void setCaras(int caras) {
 		this.caras = caras;
 	}
