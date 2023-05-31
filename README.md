@@ -11,3 +11,5 @@ Aquí haremos las pruebas unitarias de la clase Dado.
 
 ## Pruebas Unitarias
 
+- Crear un dado de 6 caras. Dar por válida la prueba si se crea correctamente un Dado de 6 caras.
+- Siguiente...
